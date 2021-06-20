@@ -7,8 +7,8 @@ for (let i = 0; i < numbers.length; i++) {
 
     const num = numbers[i];
 
-    console.log(numbers.some(isEven));
-
+    isEven();
+    
 
 function isEven() {
     
